@@ -1,2 +1,2 @@
-# redirect-to-facebook
-Redirect to my facebook profile 
+# Redirect to Linkedin
+My Facebook profile: https://www.facebook.com/lamngockhuong
